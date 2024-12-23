@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25E979C6-8744-41C9-8A37-35A5FBBD6BB6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D6BFD28-FFC0-453F-A4D8-F2DF23514816"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weater/Data/Services/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchWeather(city:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A348BC9-F6F8-493F-9C6E-BE8E2C0D2129"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weater/Data/Services/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchWeather(city:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A348BC9-F6F8-493F-9C6E-BE8E2C0D2129 - 52934ce360d04268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weater.WeatherService.fetchWeather(city: Swift.String) async throws -&gt; Weater.WeatherDTO"
+                  moduleName = "Weater"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gama/Documents/Gama/tutoriales/Swift%20/Demos/Weater/Weater/Data/Services/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "1A348BC9-F6F8-493F-9C6E-BE8E2C0D2129 - 34798ada608268cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weater.WeatherService.fetchWeather(city: Swift.String) async throws -&gt; Weater.WeatherDTO"
+                  moduleName = "Weater"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gama/Documents/Gama/tutoriales/Swift%20/Demos/Weater/Weater/Data/Services/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "1A348BC9-F6F8-493F-9C6E-BE8E2C0D2129 - 205452d9486da64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weater.WeatherService.fetchWeather(city: Swift.String) async throws -&gt; Weater.WeatherDTO"
+                  moduleName = "Weater"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gama/Documents/Gama/tutoriales/Swift%20/Demos/Weater/Weater/Data/Services/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "1A348BC9-F6F8-493F-9C6E-BE8E2C0D2129 - 2a7e41096eac1e62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weater.WeatherService.fetchWeather(city: Swift.String) async throws -&gt; Weater.WeatherDTO"
+                  moduleName = "Weater"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gama/Documents/Gama/tutoriales/Swift%20/Demos/Weater/Weater/Data/Services/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D09CDEF1-F9C2-43D3-8717-4AE3C94BF43F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weater/Data/Services/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchWeather(city:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,13 @@
+//
+//  Production.xcconfig
+//  Weater
+//
+//  Created by Gama rodriguez quintero on 21/12/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 522d31f3f9msh7ef3001393c5ae1p1767f2jsn9d18f8374694
+API_HOST = open-weather13.p.rapidapi.com
+API_BASE_URL = https://open-weather13.p.rapidapi.com/
